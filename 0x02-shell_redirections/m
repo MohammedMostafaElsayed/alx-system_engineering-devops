@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "enter the commit massage "
 read massage
-git add . && git commit -m '$massage' && git push && m0hamm8d
+git add . && git commit -m '$massage' && git push && echo m0hamm8d
