@@ -1,1 +1,1 @@
-this is shell for print directory
+this is readme file
